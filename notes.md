@@ -30,3 +30,8 @@
 4. **Microservices :-**  Node.js works well with microservices architecture due to its lightweight nature.
 5. **IoT Applications :-**  Used in Internet of Things due to its event-driven and non-blocking architecture.
 6. **Serverless Architecture :-**  Node.js is a top choice for AWS Lambda and other serverless platforms.
+
+-------
+## 🌟 Some Important Notes:-
+- `__dirname` :- This returns abosolute directory path where `.js` file located.
+- `__filename` :- This returns abosolute file location path where `.js` file located.
